@@ -1,0 +1,14 @@
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-base: 12px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-red: #ff0000;
+
+  /* Paddings */
+  --padding-md: 10px;
+}
